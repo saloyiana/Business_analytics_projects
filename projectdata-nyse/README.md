@@ -1,4 +1,4 @@
-# Project 2
+# Project #2, Analyze NYSE data
 
 
 In this project, we should conduct three tasks:
@@ -10,6 +10,5 @@ In this project, we should conduct three tasks:
 ![]()
 
 ## creating a Financial Forecasting Model using three scenarios
-
 
 ![]()
